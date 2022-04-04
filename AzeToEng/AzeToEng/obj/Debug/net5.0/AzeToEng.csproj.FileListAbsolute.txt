@@ -1,0 +1,16 @@
+E:\C#\AzeToEng\AzeToEng\bin\Debug\net5.0\AzeToEng.exe
+E:\C#\AzeToEng\AzeToEng\bin\Debug\net5.0\AzeToEng.deps.json
+E:\C#\AzeToEng\AzeToEng\bin\Debug\net5.0\AzeToEng.runtimeconfig.json
+E:\C#\AzeToEng\AzeToEng\bin\Debug\net5.0\AzeToEng.runtimeconfig.dev.json
+E:\C#\AzeToEng\AzeToEng\bin\Debug\net5.0\AzeToEng.dll
+E:\C#\AzeToEng\AzeToEng\bin\Debug\net5.0\ref\AzeToEng.dll
+E:\C#\AzeToEng\AzeToEng\bin\Debug\net5.0\AzeToEng.pdb
+E:\C#\AzeToEng\AzeToEng\obj\Debug\net5.0\AzeToEng.csproj.AssemblyReference.cache
+E:\C#\AzeToEng\AzeToEng\obj\Debug\net5.0\AzeToEng.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\AzeToEng\AzeToEng\obj\Debug\net5.0\AzeToEng.AssemblyInfoInputs.cache
+E:\C#\AzeToEng\AzeToEng\obj\Debug\net5.0\AzeToEng.AssemblyInfo.cs
+E:\C#\AzeToEng\AzeToEng\obj\Debug\net5.0\AzeToEng.csproj.CoreCompileInputs.cache
+E:\C#\AzeToEng\AzeToEng\obj\Debug\net5.0\AzeToEng.dll
+E:\C#\AzeToEng\AzeToEng\obj\Debug\net5.0\ref\AzeToEng.dll
+E:\C#\AzeToEng\AzeToEng\obj\Debug\net5.0\AzeToEng.pdb
+E:\C#\AzeToEng\AzeToEng\obj\Debug\net5.0\AzeToEng.genruntimeconfig.cache
